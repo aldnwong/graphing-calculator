@@ -4,6 +4,7 @@
 This is a graphing calculator written in C++ that utilizes the SFML library. It was made as a final project for my Fundamentals of Computer Science II (C++) course in the spring of 2025.
 
 It is able to graph a single function with navigation similar to that of Desmos. It supports the following functions:
+- Addition, subtraction, multiplication, division
 - Trig functions (cos, sin, tan, etc)
 - max and min
 - sqrt
