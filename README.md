@@ -1,2 +1,2 @@
 # Graphing Calculator
-![GIF](https://github.com/aldnwong/graphing-calculator)
+![GIF](https://github.com/aldnwong/graphing-calculator/calc.gif)
